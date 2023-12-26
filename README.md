@@ -1,6 +1,6 @@
 # Paint
 graphic editor on c#
-This project is a graphical editor created using the C# programming language. With this editor you can draw lines, ellipses, rectangles, cubes and much more.You can also open a table with the shapes you have already drawn, where the coordinates will be indicated
+This project is a graphical editor created using the C# programming language and Windows Forms. With this editor you can draw lines, ellipses, rectangles, cubes and much more.You can also open a table with the shapes you have already drawn, where the coordinates will be indicated
 
 ## Installation
 
